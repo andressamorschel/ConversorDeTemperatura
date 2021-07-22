@@ -1,6 +1,6 @@
 <h1>Conversor de Temperatura</h1>
 
-<h2>Status do Projeto:</h2>🚀 Finalizado 🚧
+<h2>Status do Projeto:</h2>🚀 Finalizado
 
 ## Descrição:
 
